@@ -5,7 +5,7 @@
 ### Part 2 
 
 [First](/sample_page)
-<img src="images/2.jpeg?raw=true"/>
+<img src="images/2.png?raw=true"/>
 
 ---
 [Second](/pdf/sample_presentation.pdf)
