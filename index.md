@@ -7,16 +7,18 @@
 #### I intend to use my analytics & spatial analytics skills in public & private sector, as well as in Private business enterperises with a focus on architecture & real estate in teh private sector & urban and real estate policy in the public sector.
 
 
-[Markdown for Baltimore Government Practicum Project](https://akshaypracticum.github.io/markdownbalt/)
+[Markdown for Baltimore Government(Capstone Project)](https://akshaypracticum.github.io/markdownbalt/)
 <img src="images/AA111.png?raw=true"/>
 
 ---
-[App Baltimore Government Practicum Project](https://akshaypracticum.github.io/practicum.github.io/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Interactive Application for Baltimore Government(Capstone Project)](https://akshaypracticum.github.io/practicum.github.io/)
+<img src="images/baltimoreicon.jpg?raw=true"/>
+
+[Website for Python based Machine Learning Real Estate Project](https://akshaynagar26.github.io/Submission620_Akshay_Nagar/)
 
 
 [Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/baltimoreicon.jpg?raw=true"/>
+<img src="images/ML.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
